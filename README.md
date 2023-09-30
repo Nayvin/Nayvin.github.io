@@ -2,10 +2,11 @@
 This will be where I will be providing a steady flow of updates to my repository.
 
 Week 1: 
-- created a github repository to be a base of operations for all of my web development work
+- created a github repository to be a base of operations for all of my web development work.
 
 Week 2:
--
+- switched the github reppsitory to a io so that it can be hosted as a webpage.
+- downloaded Css Zen Garden.
 
 Week 3:
 -
