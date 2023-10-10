@@ -9,7 +9,7 @@ Week 2:
 - downloaded Css Zen Garden.
 
 Week 3:
--
+- after messing round with css zen garden started building a wiki from the ground up
 
 Week 4:
 -
